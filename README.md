@@ -25,8 +25,7 @@ This project explores retail performance across multiple Miami-based shops by co
 ## 🛠️ Tech Stack
 
 - **SQL (MySQL)** – Data cleaning, joins, feature engineering, view creation  
-- **Power BI / Tableau** – Interactive dashboard development  
-- **Data Modeling** – ERD design & relational schema  
+- **Power BI** – Interactive dashboard development    
 - **Analytics Techniques**
   - Sales per customer metric  
   - Weekend vs weekday segmentation  
