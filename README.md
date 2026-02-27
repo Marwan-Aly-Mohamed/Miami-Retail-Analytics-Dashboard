@@ -119,8 +119,11 @@ This dashboard enables stakeholders to:
 ---
 
 ## 📷 Dashboard Preview
+### 🟣 Page 1 – Sales Performance
+![Sales Dashboard](Images/Dashboard_1.PNG)
 
-_Add dashboard screenshots here_
+### 🟢 Page 2 – Weather Impact
+![Weather Dashboard](Images/Dashboard_2.PNG)
 
 ---
 
