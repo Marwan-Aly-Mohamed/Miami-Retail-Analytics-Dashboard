@@ -136,15 +136,6 @@ This dashboard enables stakeholders to:
 
 ---
 
-## 🔮 Future Improvements
-
-- Add forecasting model for sales prediction  
-- Perform correlation analysis between weather and revenue  
-- Build machine learning regression model for revenue forecasting  
-- Deploy dashboard with live database connection  
-
----
-
 ## 👤 Author
 
 **Marwan Aly**  
