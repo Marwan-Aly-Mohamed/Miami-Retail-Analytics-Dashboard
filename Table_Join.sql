@@ -1,0 +1,1 @@
+SELECT * FROM miami_shop.table_joined;
